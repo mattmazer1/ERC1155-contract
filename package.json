@@ -1,0 +1,28 @@
+{
+	"name": "erc1155-logos",
+	"version": "1.0.0",
+	"description": "",
+	"main": "merkleTree.js",
+	"scripts": {
+		"devStart": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mattmazer1/ERC1155-contract.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mattmazer1/ERC1155-contract/issues"
+	},
+	"homepage": "https://github.com/mattmazer1/ERC1155-contract#readme",
+	"dependencies": {
+		"express": "^4.18.1",
+		"keccak256": "^1.0.6",
+		"merkletreejs": "^0.2.32"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.19"
+	}
+}
